@@ -13,8 +13,8 @@
                         <h5>Cart amount: @{{total_cart_product}}</h5>
                         <h5>Cart uniq product: @{{cart_products.length}}</h5>
                         <h5>Cart total: $ @{{cart_total_price}}</h5>
-                        <h5>Cart total: $ @{{cart_total_price}}</h5>
-                        <h5>Cart total: $ @{{cart_total_price}}</h5>
+                   
+                       
 
                     </div>
                     <div class="card-body">
